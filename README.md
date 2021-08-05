@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Jamal-cod
-- 👀 I’m interested in learning more about programation 
-- 🌱 I’m currently learning Python and basic topics
-- 💞️ I’m looking to collaborate on new students like me
+- 👀 Eu pretendo me aprofundar na área de back-end
+- 🌱 Estou atrás do meu primeiro emprego como programador
+- 💞️ Estou aberto a qualquer pessoa que queira me ajudar
 
 <!---
 Jamal-cod/Jamal-cod is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
